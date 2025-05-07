@@ -19,12 +19,12 @@ export const metadata: Metadata = {
   publisher: "Chargeway",
   robots: "index, follow",
   alternates: {
-    canonical: "https://chargeway.vercel.app",
+    canonical: "https://charge-way.vercel.app",
   },
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://chargeway.vercel.app",
+    url: "https://charge-way.vercel.app",
     title: "Chargeway - Find EV Charging Stations Near You",
     description: "Locate the nearest electric vehicle charging stations, hospitals, restaurants, and more with our interactive map.",
     siteName: "Chargeway",
