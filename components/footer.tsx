@@ -81,11 +81,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-green-500" />
-                <span className="text-sm">fragnite7717@gmail.com</span>
-              </li>
-              <li className="flex items-center gap-3">
-                <Mail className="h-5 w-5 text-green-500" />
-                <span className="text-sm">vijayk24112001@gmail.com</span>
+                <span className="text-sm">mohammedzee98@gmail.com</span>
               </li>
             </ul>
           </div>
@@ -97,12 +93,8 @@ export default function Footer() {
             <span className="text-sm">Built with</span>
             <Heart className="h-5 w-5 text-red-500 animate-pulse" />
             <span className="text-sm">by</span>
-            <Link href="https://fragnite.vercel.app/" className="text-sm hover:text-green-500 transition-colors">
-              Fragnite
-            </Link>
-            <span className="text-sm">and</span>
-            <Link href="https://github.com/hii-vijayy" className="text-sm hover:text-green-500 transition-colors">
-              Vijay
+            <Link href="https://mozaid.vercel.app/" className="text-sm hover:text-green-500 transition-colors">
+              Zaid
             </Link>
           </div>
           <div className="flex gap-4 mt-4 md:mt-0">
