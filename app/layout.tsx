@@ -13,8 +13,7 @@ export const metadata: Metadata = {
   description: "Locate the nearest electric vehicle charging stations, hospitals, restaurants, and more with our interactive map. Plan your route with Chargeway's real-time availability tracker.",
   keywords: "EV charging stations, electric vehicle, charging map, find chargers, EV infrastructure, Tesla chargers, CCS, CHAdeMO, Type 2",
   authors: [
-    { name: "Fragnite" },
-    { name: "Vijay" }
+    { name: "Zaid" }
   ],
   creator: "Chargeway Team",
   publisher: "Chargeway",
