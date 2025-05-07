@@ -96,7 +96,7 @@ async function fetchEVStations(latitude: number, longitude: number, distance = 1
   }
 }
 
-// Fetch POIs from TomTom API with rate limiting
+// Fetch POIs from TomTom API with rate limiting for limited results
 async function fetchTomTomPOIs(latitude: number, longitude: number, category: string, radius = 10000): Promise<POI[]> {
   const cacheKey = `tomtom-${category}-${latitude}-${longitude}-${radius}`
 
