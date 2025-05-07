@@ -7,8 +7,7 @@ Chargeway is a web application designed to help users find electric vehicle (EV)
 
 Built with ❤️ by:
 
-- [Arya Sharma](https://github.com/iaryasharma)
-- [Vijay Kumar](https://github.com/hii-vijayy)  
+- [Mohammed Zaid](https://github.com/mozaid7) 
 
 ## Features
 
